@@ -1,2 +1,0 @@
-# prompt-ai
-Prompt AI
